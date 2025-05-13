@@ -1,1 +1,1 @@
-# hotelCode
+# Desktop app - hotel management
